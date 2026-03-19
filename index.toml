@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "63aea16cbf3e00874a05889f1553f3ef4640b04d10c370bba78eb2377f4fbf07"
+hash = "16ff4440f9ceb00cf30d63cd063dc5759e3a19260837c11cf678824652f8344c"
 metafile = true
 
 [[files]]
