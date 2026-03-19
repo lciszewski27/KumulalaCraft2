@@ -1,0 +1,13 @@
+name = "SecurityCraft x Create"
+filename = "SecurityCraftxCreate.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zkSiDHst/versions/IYKNOfmR/SecurityCraftxCreate.zip"
+hash-format = "sha512"
+hash = "7a69c7f0d9409dda769c021630f72d2392542b8ea1409b9129b6f81c035490d9d680d6eb764fad31c262b976a33893e80f6f73fec55c522449d91f0a7b23e3f5"
+
+[update]
+[update.modrinth]
+mod-id = "zkSiDHst"
+version = "IYKNOfmR"
