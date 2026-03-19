@@ -314,8 +314,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
 metafile = true
-
-[[files]]
-file = "resourcepacks/securitycraft-x-create.pw.toml"
-hash = "47a53bcab4f4f55a9e31a6a53817455ff86cf1c2abb761ca0a047cc8458f405e"
-metafile = true
