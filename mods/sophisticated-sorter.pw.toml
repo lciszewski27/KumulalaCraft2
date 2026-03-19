@@ -1,13 +1,13 @@
 name = "Sophisticated Sorter"
-filename = "SophisticatedSorter-1.0.6-hotfix2.jar"
+filename = "sophisticatedsorter-1.0.6-hotfix.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2LPywrDb/versions/o7Go4is1/SophisticatedSorter-1.0.6-hotfix2.jar"
+url = "https://cdn.modrinth.com/data/2LPywrDb/versions/aO3DwbJP/sophisticatedsorter-1.0.6-hotfix.jar"
 hash-format = "sha512"
-hash = "e28ed109f89d7927678be2f842d7dd5046c9396bb86d1eed0773544901e1527758447eb2f24999351e835f34a894eeaa84478e8fd7c4b449b09fb0793d36dad0"
+hash = "408397c1364f3aebd4d5bfaedca0550e6f8a1c8daa503675a2a44d2e9d755c5017731292a69cbf1090a182e42e7dfe143ec17c767dc90a0562303755a55d86b1"
 
 [update]
 [update.modrinth]
 mod-id = "2LPywrDb"
-version = "o7Go4is1"
+version = "aO3DwbJP"
