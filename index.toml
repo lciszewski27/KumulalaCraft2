@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+hash = "4b85460acf5c4e3855acb2bc89bfeb63c2af0ee2c78cd4e27e4cf7981236d460"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
@@ -227,17 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "e56493279c8433b5601b7f4fc5bd2314224b6528f46cbc7d4e33c9f226ba9ccd"
+hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "64b32c550d9bfa81314951cafe8008e66ab1f5d4da301294226489cc9000baaf"
+hash = "70b0ef0d35350740faba12fe0825ac41bfa7f47f5fe5dba7ebb922c970a9027e"
 metafile = true
 
 [[files]]
 file = "mods/watervision.pw.toml"
-hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
+hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
