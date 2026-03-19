@@ -6,8 +6,8 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
 
 [[files]]
@@ -41,8 +41,8 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "c8c78d6b861d3bf2053ac58bb00439d85231b9fdbf72d1ea03fd9035ce09edb7"
+file = "mods/citadel-(1.21.1-port).pw.toml"
+hash = "6c2a31f56fd90bb78538bd3c09239bb43da547d4d023cc297c4af57ff51bb8c9"
 metafile = true
 
 [[files]]
@@ -76,8 +76,8 @@ hash = "710f6b193afb4f0660b9e1e0e084772abbac6d2eb5f3a6dfeb6cf3c0a4e3e529"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
 
 [[files]]
@@ -246,8 +246,13 @@ hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "64b32c550d9bfa81314951cafe8008e66ab1f5d4da301294226489cc9000baaf"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
