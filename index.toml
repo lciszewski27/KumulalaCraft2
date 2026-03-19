@@ -6,8 +6,18 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
@@ -46,6 +56,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "c456c308a2d698a8aa9d7318cfb4705a99a773ffcae775af60c659b605b39d87"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "88325807c01b522a76d686f39c442da99b73a90ae3ec9b5434fea5f79baa4d49"
 metafile = true
@@ -53,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "976e9c737f3dd39812d87bc8dd8082197a77aeb5e08f5082d22643ac36f46a4f"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
@@ -73,6 +98,21 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "e56493279c8433b5601b7f4fc5bd2314224b6528f46cbc7d4e33c9f226ba9ccd"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "64b32c550d9bfa81314951cafe8008e66ab1f5d4da301294226489cc9000baaf"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
 metafile = true
 
 [[files]]
