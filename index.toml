@@ -11,6 +11,11 @@ hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "eae66e8a13ab53f9685ca955e7774ce6da1f7de433583f6212a3a1d16884a1cb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -206,6 +216,16 @@ hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-chat.pw.toml"
+hash = "594417188ac54b1ef1cdd3e755589369391f54c05cef6b027d7a4b9a5b98a922"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "8997bdf6fd1716cd5498c48621944a97993189beebc897039d22fe4d9ae79c98"
 metafile = true
 
 [[files]]
@@ -271,6 +296,11 @@ hash = "143324f103b28e6f799e808ce1ff20eab1aea7485be406c3ff95d7f007920e84"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "fd9a324e9fbecfcefaf377532088693a4a6c3cf2963735375dffbafb97770007"
+metafile = true
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
 metafile = true
@@ -308,6 +338,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "661acc99102a88a35ea321ad78511b378a4c79297dc85521cc9b3353614f1a18"
 metafile = true
 
 [[files]]
