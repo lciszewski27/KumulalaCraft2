@@ -1,12 +1,12 @@
 name = "KumulalaCraft2"
 author = "Ciszek"
-version = "0.0.3"
+version = "0.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2aae2884da8f60eb2d165ddc7e5b1e951a17c18aaae8949cb02f7d31ab88a944"
+hash = "a546cdd9741d3a9feb96f2aecffebf1bcb9939ad135d0aeb601b155d345996b0"
 
 [versions]
 minecraft = "1.21.1"

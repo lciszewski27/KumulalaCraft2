@@ -21,6 +21,11 @@ hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6275af0eac6628ad8b2cc21e33303667197c905bd784b29357d1a4e650e3d395"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts-redux.pw.toml"
 hash = "ae56960397cf0e01f21b448093590643ad70bb390da44732ca46dc5261f4d536"
 metafile = true
@@ -176,6 +181,21 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "dd65584149326a9215b365e82d699c3fd25c1167a2629fcb4b12d2994e97c620"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a092b2b55bde75e687e007cbf2f46ac71caeb6ef8cd9f73f88b17c92a5d63ad7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "281f6acc75220be14a307ff4d0e1d9028455a36ddeadddac96e5230231a481ba"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
@@ -213,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
 
 [[files]]
