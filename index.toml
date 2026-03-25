@@ -41,6 +41,11 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "fd8400c730eed14672714c57ce51f76e90caa472c3c3d6148f60a5b0de632f30"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
 metafile = true
