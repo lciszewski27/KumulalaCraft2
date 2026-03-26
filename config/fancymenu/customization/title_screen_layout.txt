@@ -88,8 +88,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 65780255-b83d-459c-81f7-adb59b6b43e0-1773855494079
-  [executable_action_instance:ad4fd9d0-556d-4b2c-adf7-4862ee5d1406-1774028918449][action_type:set_variable] = easteregg=10
-  [executable_action_instance:ac91f2a9-0984-4d67-b53a-23011e2f8b9f-1773855540298][action_type:joinserver] = 127.0.0.1
+  [executable_action_instance:ac91f2a9-0984-4d67-b53a-23011e2f8b9f-1773855540298][action_type:joinserver] = 87.206.107.137:25565
   [executable_block:65780255-b83d-459c-81f7-adb59b6b43e0-1773855494079][type:generic] = [executables:ad4fd9d0-556d-4b2c-adf7-4862ee5d1406-1774028918449;ac91f2a9-0984-4d67-b53a-23011e2f8b9f-1773855540298;]
   backgroundnormal = [source:local]/config/fancymenu/assets/transparent.png
   backgroundhovered = [source:local]/config/fancymenu/assets/transparent.png
@@ -155,7 +154,7 @@ element {
 
 element {
   interactable = false
-  source = ^^^%n%Server is {"placeholder":"serverstatus","values":{"ip":"127.0.0.1:25565"}}%n%^^^
+  source = ^^^%n%Server is {"placeholder":"serverstatus","values":{"ip":"87.206.107.137:25565"}}%n%^^^
   source_mode = direct
   shadow = true
   scale = 0.85
@@ -408,53 +407,6 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  rotation_degrees = 0.0
-  advanced_rotation_mode = false
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_mode = false
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_mode = false
-}
-
-element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/important.wav
-  audio_instance_weight_0 = 1.0
-  play_mode = normal
-  looping = false
-  volume = 1.0
-  sound_source = master
-  element_type = audio_v2
-  instance_identifier = 3a98178e-abb7-4fe8-8c19-cc6fb19f6d72-1774028674859
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1010
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = 65
-  y = 45
-  width = 100
-  height = 100
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = c3696bc7-aad8-419a-97c9-28bb3a936c72-1774028674859
-  [loading_requirement_container_meta:c3696bc7-aad8-419a-97c9-28bb3a936c72-1774028674859] = [groups:][instances:e1ebd20a-6857-485b-bbc8-2df90ccfe538-1774029859448;]
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:e1ebd20a-6857-485b-bbc8-2df90ccfe538-1774029859448] = :10
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #5CA6EFFF
   layer_hidden_in_editor = false
   rotation_degrees = 0.0
   advanced_rotation_mode = false

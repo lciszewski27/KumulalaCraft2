@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MiniMOTD/icons/logo_small.png"
-hash = "bfb5ebfec0d43d1372a19b022e546f60e1789d1a0f736225735531240d8125aa"
-
-[[files]]
-file = "config/MiniMOTD/main.conf"
-hash = "1335a730a4707fddec8b9fbe642b70829d54df0571f0cea9605b5dc32d644b7a"
-
-[[files]]
-file = "config/MiniMOTD/plugin_settings.conf"
-hash = "d867f08db3c006fdedc4d759120d0c1312b0aa661d6fb12eff0f30a4b2fbbbbf"
-
-[[files]]
 file = "config/fancymenu/assets/icon_16.png"
 hash = "d5bbeac9cf5cc911c56c5a779c69cbba0114b7af8e6cef60d422fe570d49c05c"
 
@@ -23,10 +11,6 @@ hash = "a8b5f348b5c4fc906bc34d17e80bd4a7edb3ed407357d93d5404bf3c8f7db8d8"
 [[files]]
 file = "config/fancymenu/assets/icon_apple.icns"
 hash = "34f20a534a5493170d030be8e45513ecbfe6e75da5f5ed8956e78b9e744c1f61"
-
-[[files]]
-file = "config/fancymenu/assets/important.wav"
-hash = "91d1f99b450264018c69d94cc838fbdde94d90c0b4bb784f9bde855e936fd89f"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
@@ -58,7 +42,7 @@ hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "53c03e44a0fe78c8c208cf19f22a6fdd7f50e71ff292530e5ea093eef11b2002"
+hash = "1577344b22ad440f2e5d77e10a874a456a0f066f4067f900a711c6730aad31ce"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -115,6 +99,14 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "05110feb2523973f61791f45a4604a698e7280ff6a073d329ac080a484bb9764"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "d0a38f7e342b8128986920a497c2b64609149d77e031244e4668dcfff013e72e"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -241,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
@@ -376,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
-metafile = true
-
-[[files]]
-file = "mods/minimotd.pw.toml"
-hash = "8997bdf6fd1716cd5498c48621944a97993189beebc897039d22fe4d9ae79c98"
 metafile = true
 
 [[files]]
