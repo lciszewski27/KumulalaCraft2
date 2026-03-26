@@ -1,6 +1,154 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MiniMOTD/icons/logo_small.png"
+hash = "bfb5ebfec0d43d1372a19b022e546f60e1789d1a0f736225735531240d8125aa"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "1335a730a4707fddec8b9fbe642b70829d54df0571f0cea9605b5dc32d644b7a"
+
+[[files]]
+file = "config/MiniMOTD/plugin_settings.conf"
+hash = "d867f08db3c006fdedc4d759120d0c1312b0aa661d6fb12eff0f30a4b2fbbbbf"
+
+[[files]]
+file = "config/fancymenu/assets/icon_16.png"
+hash = "d5bbeac9cf5cc911c56c5a779c69cbba0114b7af8e6cef60d422fe570d49c05c"
+
+[[files]]
+file = "config/fancymenu/assets/icon_32.png"
+hash = "a8b5f348b5c4fc906bc34d17e80bd4a7edb3ed407357d93d5404bf3c8f7db8d8"
+
+[[files]]
+file = "config/fancymenu/assets/icon_apple.icns"
+hash = "34f20a534a5493170d030be8e45513ecbfe6e75da5f5ed8956e78b9e744c1f61"
+
+[[files]]
+file = "config/fancymenu/assets/important.wav"
+hash = "91d1f99b450264018c69d94cc838fbdde94d90c0b4bb784f9bde855e936fd89f"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "44eb0cee498a207ff83abaab09d0f3778ea4502375a7161916414dd3c8822253"
+
+[[files]]
+file = "config/fancymenu/assets/transparent.png"
+hash = "9db6e0bf5851cdb704d509999911ae0f0f4c34b41bbc2d0a33e7ae0a7ee62e10"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "5abb9fb53b88a9e0bdd66ad2d3049dd8e11304a337ca182757f47fb781c026ba"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "1074263976c0fb6f6c90a79bc9f933efb7dc453ab9ccb8c8468926acef8340f1"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "5995a2b915bf6df48aa75e06f52b8327727a34067467efc04388a4d1991052f7"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout_1.txt"
+hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "53c03e44a0fe78c8c208cf19f22a6fdd7f50e71ff292530e5ea093eef11b2002"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "7fa234af835404a6597588307ff459adc066a3cee990225f2a8e53e9d8ecfe21"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "26136650303b1e5eba8eebeb59bbed89af1de8800f67d4fe5f8aa1b5dab58859"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_0.png"
+hash = "cf5c969a1d438cbd6ff4ce7daf95afc3fac9b723ea0131ca97dee1e6d7491391"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_1.png"
+hash = "2467d98b5c45be8d201558688a0a9d0e2e0f756a08e29efaf2b25304b952307f"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_2.png"
+hash = "ee450d1260b7c3a0a2650a58dd84883456b202241eca2eb1802fecf4c7420bbb"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_3.png"
+hash = "e5a087d2ebbf631759ad2e0676b659622fcecb998f96ce4733ebf5a707961afd"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_4.png"
+hash = "7bf39373b773e65fcdf9f0cd20838ddba2c03e6cbc8ecf48ecabdf10d21be5b6"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/panorama/panorama_5.png"
+hash = "b35e57e38f8aa5d60b7e68053fbc77ac6eedc5edc2ea9cc2d38d9b09c0b90bbf"
+
+[[files]]
+file = "config/fancymenu/panoramas/main/properties.txt"
+hash = "11277192d86e3e39c2a66fbf0adc6579e93af45e93d0dddbe7afbd0d584cb282"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "05110feb2523973f61791f45a4604a698e7280ff6a073d329ac080a484bb9764"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "ff42351773718e1ff6bb2ee8b52312ae4b89f0292fd0a3cf71e20460816b94cc"
+
+[[files]]
+file = "config/tab/animations.yml"
+hash = "33969c36a62baaa45d6290bbfff9728bb0126b23cb320257547844521ca16a10"
+
+[[files]]
+file = "config/tab/config.yml"
+hash = "58691fd1809de8987088974e9fa109ed73a9c9fd23b32238a546dc4036236e5c"
+
+[[files]]
+file = "config/tab/groups.yml"
+hash = "db8c5a7427f63909a058a521d9bda84933b54701c7658a3564b67141ac409a1b"
+
+[[files]]
+file = "config/tab/messages.yml"
+hash = "9eefd8d3a31677cb6e7ba09f6fc910643516a3829134069c07b475099bec8222"
+
+[[files]]
+file = "config/tab/playerdata.yml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/tab/skincache.yml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/tab/users.yml"
+hash = "d1d155f990897a6120539a96397824b81ca4ee7068addd7508cbceacc7993eed"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -181,21 +329,6 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials.pw.toml"
-hash = "dd65584149326a9215b365e82d699c3fd25c1167a2629fcb4b12d2994e97c620"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "a092b2b55bde75e687e007cbf2f46ac71caeb6ef8cd9f73f88b17c92a5d63ad7"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "281f6acc75220be14a307ff4d0e1d9028455a36ddeadddac96e5230231a481ba"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
@@ -321,6 +454,11 @@ hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "ff8556cebae2ed386522c043a5bbcd475e4bf8befde4bfadbe53ee565128e96d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
@@ -353,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat-unofficial-neoforge.pw.toml"
+hash = "37e4d71938c09dc50708491259ce5013743d326fb0d3574deb60aaba38819716"
 metafile = true
 
 [[files]]
