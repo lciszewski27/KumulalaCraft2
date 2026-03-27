@@ -1,6 +1,6 @@
 name = "KumulalaCraft2"
 author = "Ciszek"
-version = "0.0.9"
+version = "0.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
