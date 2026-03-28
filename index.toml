@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/50transparent.png"
+hash = "6b57861a6d99da4d58fe4dc0991623253f874c3c0924965f2cb90301eb67b58a"
+
+[[files]]
 file = "config/fancymenu/assets/icon_16.png"
 hash = "d5bbeac9cf5cc911c56c5a779c69cbba0114b7af8e6cef60d422fe570d49c05c"
 
@@ -30,23 +34,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "1074263976c0fb6f6c90a79bc9f933efb7dc453ab9ccb8c8468926acef8340f1"
-
-[[files]]
-file = "config/fancymenu/customization/inventory_screen_layout.txt"
-hash = "5995a2b915bf6df48aa75e06f52b8327727a34067467efc04388a4d1991052f7"
-
-[[files]]
-file = "config/fancymenu/customization/join_multiplayer_screen_layout_1.txt"
-hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
+hash = "0db5fc532037ebe7621f459282e963b20fe74c6d7329b2bc79bc6ddbfe6a6b83"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "1577344b22ad440f2e5d77e10a874a456a0f066f4067f900a711c6730aad31ce"
-
-[[files]]
-file = "config/fancymenu/customization/universal_layout.txt"
-hash = "7fa234af835404a6597588307ff459adc066a3cee990225f2a8e53e9d8ecfe21"
+hash = "de8647fa44f4d54661b8ba54b85707f9c46645d0b78b15606fbb1d59a9c8a97f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -58,7 +50,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "26136650303b1e5eba8eebeb59bbed89af1de8800f67d4fe5f8aa1b5dab58859"
+hash = "45fec3d9bac2c0b4ba206cfe4e382be9a74e0631a2d08fc8d34224ecf3a05c10"
 
 [[files]]
 file = "config/fancymenu/panoramas/main/panorama/panorama_0.png"
@@ -98,7 +90,7 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "05110feb2523973f61791f45a4604a698e7280ff6a073d329ac080a484bb9764"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
