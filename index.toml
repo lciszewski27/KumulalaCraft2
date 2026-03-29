@@ -34,11 +34,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "0db5fc532037ebe7621f459282e963b20fe74c6d7329b2bc79bc6ddbfe6a6b83"
+hash = "9ae04a0e857f76acfe6257b148b81b77a131fcf2435237c0506155ded69fabef"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "de8647fa44f4d54661b8ba54b85707f9c46645d0b78b15606fbb1d59a9c8a97f"
+hash = "8c87c37f43523b1878702f1fa40512d54b0896cafd386fd9514b836185a84af2"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -51,34 +55,6 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "45fec3d9bac2c0b4ba206cfe4e382be9a74e0631a2d08fc8d34224ecf3a05c10"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_0.png"
-hash = "cf5c969a1d438cbd6ff4ce7daf95afc3fac9b723ea0131ca97dee1e6d7491391"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_1.png"
-hash = "2467d98b5c45be8d201558688a0a9d0e2e0f756a08e29efaf2b25304b952307f"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_2.png"
-hash = "ee450d1260b7c3a0a2650a58dd84883456b202241eca2eb1802fecf4c7420bbb"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_3.png"
-hash = "e5a087d2ebbf631759ad2e0676b659622fcecb998f96ce4733ebf5a707961afd"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_4.png"
-hash = "7bf39373b773e65fcdf9f0cd20838ddba2c03e6cbc8ecf48ecabdf10d21be5b6"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/panorama/panorama_5.png"
-hash = "b35e57e38f8aa5d60b7e68053fbc77ac6eedc5edc2ea9cc2d38d9b09c0b90bbf"
-
-[[files]]
-file = "config/fancymenu/panoramas/main/properties.txt"
-hash = "11277192d86e3e39c2a66fbf0adc6579e93af45e93d0dddbe7afbd0d584cb282"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -131,6 +107,234 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/tab/users.yml"
 hash = "d1d155f990897a6120539a96397824b81ca4ee7068addd7508cbceacc7993eed"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/minecraft/font/default.json"
+hash = "532dc4a211ca2d736d9b7f469a5bfc7ef20b79441172981684959727802bc45c"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/de_de.json"
+hash = "a263eafcfdaf4e1bbe89e943d5e3af630119e40a34d061f99b0c33bc9cb73c8e"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "a263eafcfdaf4e1bbe89e943d5e3af630119e40a34d061f99b0c33bc9cb73c8e"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/pl_pl.json"
+hash = "19503c20d3e4e13b72fb7f6fd5950bc7b1158dd1d5cc633841dc3573d184ccd6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "cf5c969a1d438cbd6ff4ce7daf95afc3fac9b723ea0131ca97dee1e6d7491391"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "2467d98b5c45be8d201558688a0a9d0e2e0f756a08e29efaf2b25304b952307f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "ee450d1260b7c3a0a2650a58dd84883456b202241eca2eb1802fecf4c7420bbb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "e5a087d2ebbf631759ad2e0676b659622fcecb998f96ce4733ebf5a707961afd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "7bf39373b773e65fcdf9f0cd20838ddba2c03e6cbc8ecf48ecabdf10d21be5b6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "b35e57e38f8aa5d60b7e68053fbc77ac6eedc5edc2ea9cc2d38d9b09c0b90bbf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/logo/logo.png"
+hash = "ef3784d45461ac9616fb008de6108f8dd85aa67532a176897f811b5c7f2bb724"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/painting/graham.png"
+hash = "8778e2d99e197ac24ebf2c9874f274c89b6ceff739d9e491e982c10ffe15da83"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/painting/skeleton.png"
+hash = "4459cb230841f34504ac13869be9c09118dc35bbb130c3b058fecc8dedb4a7f0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/painting/wither.png"
+hash = "b0f2d9dd701f9a79b2c098af10f4225d230c7fea7a19e028784b57fe0b4b303f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_0.png"
+hash = "c43b2f01405852706cf53f5c8ac97cdb7776a3df043493e5e909dcb5628940f3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_1.png"
+hash = "6c4351215f4a5c52733fd0d3c5ad4220ed5fde138fe11033791c0b609958a306"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_10.png"
+hash = "164d7d37da4f5e1655684a833a71dc1918b99ea9ff2581b9014b1dc58f7f86c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_11.png"
+hash = "6471eafc07cbd208098cf55dd68ad137b88dd90c79072f7a553b3082247cc625"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_2.png"
+hash = "a4682faea839fcf8d2b260ab1698872db4ffa136c46da43fcbe75b65487f92f1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_3.png"
+hash = "ac1e29bbf79b08d17a6c04960174567a68ae3cbdf1882e0765eb9fedaa23210d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_4.png"
+hash = "4cd375b1ef64159c4bd152f9e0064c8b61409bd475b75a594ba1673732beabac"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_5.png"
+hash = "7884838c3ee88da04466bff744e302b19a229ef2e9671d4c83bb4e3404b69897"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_6.png"
+hash = "f83dd8295589bce6307c9595f32e53fa863982eb053e7ab4fe0a0230c0364dec"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_7.png"
+hash = "2dd12251a13feeaf6e2f18c2bd644f30a90a31bddb5c315149b4d8fb55229edd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_8.png"
+hash = "5a1ed2c88ae0edd75e12ca56890e9e33266e42cec4a87c6d9a24d9badce3815b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/leaf_9.png"
+hash = "2d0921993ed40eacf25915fa51316c5e811b7627367afc5ea3d9107ed2f217eb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_0.png"
+hash = "c99c50712ff4f51728625815dff1f89b0d5c5d9af6669ccdb5c30013472e98ee"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_1.png"
+hash = "3ab9101004d93f721059b25c009798a19a0ce55833eeb248d4616f3e5e32b0c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_10.png"
+hash = "f10c51c4e0d81846bec7924c66502b5131f70f77a7268d4d155eb411db5c385e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_11.png"
+hash = "d326fc42b418209bbbc0e4de6cfe186e7bdb09f4570d0a3ede851e2ebaa7cc88"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_2.png"
+hash = "28a25d20d69aba88f68733ef77387a74628795ecd81083f907c3827d34e5eeaf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_3.png"
+hash = "42da8d97c3ce949186f6dcbbd70e49b174860253d6bb3c1c576212db98a32f76"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_4.png"
+hash = "e86543ce5db5376b115bb1a47b4d7e7d188b755768bb1f24dfbb237404bd5635"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_5.png"
+hash = "69397f551f31dc014915f1b9dbce3cc7e3ff506d50c3ce8ad407e3b5cf97aa9f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_6.png"
+hash = "cc1fa3328066ced135904f07e6ad640c96a5c3c3599eeebcd7f1b1b483c28729"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_7.png"
+hash = "d641f9dd5347ed2d70d4c2925e0f22e4310202033873b5d665ea7c9e879d067d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_8.png"
+hash = "858e32d52d9f1064286cc46fd73ad085ed2a7e4a3e53fb8b63ece93b7381f102"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/particle/pale_oak_9.png"
+hash = "e0753cc34b7eb6a04e171116f9460eb5a03942508d396161fd701d62f8438257"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ranks/admin.png"
+hash = "8a1d4844ab904a39d7562ddce84f3904d71afe7082f82b1fad77340fb7148dba"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ranks/agartha.png"
+hash = "c0092d08f8723125b11b232aba68c1f60ddce8111fccacd7fe92ab49aa703df5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ranks/memb.png"
+hash = "f5200f40bbf8e45024a0bcf9a8eebb3f9d7132b9f6f7cac6634006f4b6291c5f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ranks/mod.png"
+hash = "dd499e3cf1a053149a59baa02059ace909c6cb4ce84f50cfef92a5d05d2e538e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/ranks/special.png"
+hash = "2887ff0437acb6a85b9c0c07fb4006f9ac3bf4482bc75d2536398b108edf4482"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "f47c419ee3372e99593a1faf771e0f8eb6a422b0fd81c8634c89efd8c15b277a"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "f38d326943014d6906916a9387c75e2bfd609fce10e92049d76a395c5775b6f1"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "4bb58390efcffa623f8af231aa3d99dcff3b0f7da61ba6ee4c13a65466ad6a8c"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "c5870a6cf42d5512bafdf86f1286ff2083c920560affb43c4537244066ad1a1a"
+
+[[files]]
+file = "kubejs/server_scripts/admin_commands.js"
+hash = "cd2569396e72bf150d7cdcd6bb9e43718332054bb74f3d857b95a078591f06c9"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
+
+[[files]]
+file = "kubejs/server_scripts/stats.js"
+hash = "efc2f14f47cf0b9f1665723e2528d4cf4cdd7fdcc42899eb654d213150eaa67b"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "5d1d34f9763eb77f2e30b9fb62a8f4f056149b2c162b113157265ddef1b8dad3"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "mods/accessories.pw.toml"
