@@ -406,11 +406,6 @@ hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
 
 [[files]]
-file = "mods/cgs.pw.toml"
-hash = "49c3b490fb1c69cd2625feed2a3a6a8cb6759657ca29f58ececa7169e5673a29"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -656,16 +651,6 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/ntgl.pw.toml"
-hash = "f2d8ed39cf2333191a7195ce9e988db6927b452ffc9911cd30678f209065e31f"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -813,11 +798,6 @@ metafile = true
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
 hash = "661acc99102a88a35ea321ad78511b378a4c79297dc85521cc9b3353614f1a18"
-metafile = true
-
-[[files]]
-file = "mods/tacz-1.21.1.pw.toml"
-hash = "950887204c560dea40424bbc36b7c58ac4cba566dad3076bf1f7be030f4cceb0"
 metafile = true
 
 [[files]]
