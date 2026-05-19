@@ -521,11 +521,6 @@ hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "3492cce37b394da6d6b7346ad00fba3b27c1f7a56c9bc9d104141d6ec6a25fd9"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
@@ -688,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "21388a8519fbba93d4663a40bb163932855213ec47f41af18c1d3a4a1e2ada93"
 metafile = true
 
 [[files]]
