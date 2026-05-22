@@ -1,0 +1,13 @@
+name = "authlogic"
+filename = "auth-logic-0.0.4+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3YH8L7pG/versions/79mTbqGF/auth-logic-0.0.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ac45b486c6bdd87cf77350d661fc5080e2b5d8a0140e6e0ae51046b48e80a7e5b7c94ebb663445a427ab2c93a496fa6bae46ae4a78fe1db53b54adf4ce5829fe"
+
+[update]
+[update.modrinth]
+mod-id = "3YH8L7pG"
+version = "79mTbqGF"
