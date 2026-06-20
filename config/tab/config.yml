@@ -1,0 +1,151 @@
+header-footer:
+  enabled: true
+  designs:
+    default:
+      header:
+      - '%animation:footer%&r'
+      - ' '
+      - ' '
+      - ' '
+      - ' '
+      - ㍐
+      - ' '
+      - ' '
+      - ' '
+      - '%animation:event%'
+      - ' '
+      - '&7===&r  &fᴏɴʟɪɴᴇ ᴘʟᴀʏᴇʀѕ: &c%online%  &7===&r'
+      footer:
+      - ''
+      - '&7ᴘɪɴɢ: &c%ping%ms &7| &7ᴛᴘѕ: &c%tps% &7'
+      - ' '
+      - '&7ᴅɪѕᴄᴏʀᴅ: &4&ndiscord.gg/5fRXAdES3c'
+      - ''
+      - '%animation:footer%'
+tablist-name-formatting:
+  enabled: true
+  disable-condition: '%world%=disabledworld'
+playerlist-objective:
+  enabled: true
+  value: '%deaths%'
+  fancy-value: '%deaths% &#888888☠ '
+  title: TAB
+  render-type: INTEGER
+  disable-condition: '%world%=disabledworld'
+belowname-objective:
+  enabled: true
+  value: '%health%'
+  title: ''
+  fancy-value: '&c%health% ❤'
+  fancy-value-default: NPC
+  disable-condition: '%world%=disabledworld'
+prevent-spectator-effect:
+  enabled: false
+global-playerlist:
+  enabled: false
+  display-others-as-spectators: false
+  display-vanished-players-as-spectators: true
+  isolate-unlisted-servers: false
+  update-latency: false
+  spy-servers:
+  - spyserver1
+  - spyserver2
+  server-groups:
+    lobbies:
+    - lobby1
+    - lobby2
+    group2:
+    - server1
+    - server2
+placeholders:
+  date-format: dd.MM.yyyy
+  time-format: HH:mm
+  time-offset: 0
+  register-tab-expansion: false
+placeholder-output-replacements:
+  '%essentials_vanished%':
+    'yes': '&7| Vanished'
+    'no': ''
+conditions:
+  nick:
+    conditions:
+    - '%player%=%essentials_nickname%'
+    true: '%player%'
+    false: ~%essentials_nickname%
+placeholder-refresh-intervals:
+  default-refresh-interval: 500
+  '%server_uptime%': 1000
+  '%server_tps_1_colored%': 1000
+  '%server_unique_joins%': 5000
+  '%player_health%': 200
+  '%player_ping%': 1000
+  '%vault_prefix%': 1000
+  '%rel_factionsuuid_relation_color%': 1000
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- Owner
+- Admin
+- Mod
+- Helper
+- default
+permission-refresh-interval: 1000
+debug: false
+mysql:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: tab
+  username: user
+  password: password
+  useSSL: true
+proxy-support:
+  enabled: true
+  type: PLUGIN
+  plugin:
+    name: RedisBungee
+  redis:
+    url: redis://:password@localhost:6379/0
+  rabbitmq:
+    exchange: plugin
+    url: amqp://guest:guest@localhost:5672/%2F
+  channel-name-suffix: TAB
+components:
+  minimessage-support: true
+  disable-shadow-for-heads: true
+config-version: 5
+per-world-playerlist:
+  enabled: false
+  allow-bypass-permission: false
+  ignore-effect-in-worlds:
+  - ignoredworld
+  - build
+  shared-playerlist-world-groups:
+    lobby:
+    - lobby1
+    - lobby2
+    minigames:
+    - paintball
+    - bedwars
+scoreboard-teams:
+  enabled: true
+  sorting-types:
+  - GROUPS:administrador,moderato,especialista,default
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: true
+  can-see-friendly-invisibles: false
+  disable-condition: '%world%=disabledworld'
+  enable-collision: true
+  invisible-nametags: false
+compensate-for-packetevents-bug: false
+use-bukkit-permissions-manager: false
+use-online-uuid-in-tablist: true
+layout:
+  enabled: false
+bossbar:
+  enabled: false
+scoreboard:
+  enabled: false
+ping-spoof:
+  enabled: false
+scoreboards:
+  enabled: false

@@ -1,0 +1,90 @@
+# ═══════════════════════════════════════════════════════════
+# EasyLogin Configuration
+# Server-only authentication mod
+# ═══════════════════════════════════════════════════════════
+
+[general]
+# Seconds until unauthenticated player is kicked
+loginTimeout = 60
+# Seconds between action bar reminders
+reminderInterval = 10
+# Allow /logout command
+enableLogout = true
+# Logout cooldown in seconds
+logoutCooldown = 30
+
+[limbo]
+# Teleport to isolated coordinates while unauthenticated
+enabled = true
+x = 0.5
+y = 120.0
+z = 0.5
+world = "minecraft:overworld"
+
+[security]
+# BCrypt cost factor (10-14 recommended)
+bcryptCost = 12
+# Max login attempts before lockout
+maxAttempts = 5
+# Rate limit window (minutes)
+attemptWindow = 5
+# Lockout duration (minutes)
+lockoutDuration = 10
+# Minimum password length
+minPasswordLength = 4
+
+[protection]
+# Block player movement while unauthenticated
+blockMovement = true
+# Block chat messages while unauthenticated
+blockChat = true
+# Block damage received while unauthenticated
+blockDamageReceived = true
+# Block damage dealt by unauthenticated players
+blockDamageDealt = true
+# Seconds of invincibility after successful login/register
+invincibilityDuration = 5
+
+[sounds]
+# Vanilla sound events
+loginSuccess = "minecraft:entity.player.levelup"
+loginFail = "minecraft:entity.villager.no"
+
+[messages]
+# All messages support color codes (&a, &c, etc.) and placeholders:
+# {player}, {server}, {online}, {discord}, {attempts}, {minutes}, {seconds}, {min}
+welcome = "&7✚ &aWelcome to &f{server}, {player}! &7Use &e/login <password> &7to authenticate."
+welcomeFirstTime = "&7✚ &aWelcome &f{player} &ato &f{server}! &7First time? Use &e/register <password> <password> &7| Discord: &b{discord}"
+loginSuccess = "&a✔ &7Successfully logged in! Welcome back, &a{player}&7!"
+registerSuccess = "&a✔ &7Account created successfully! Welcome to &f{server}&7."
+wrongPassword = "&c✕ &7Incorrect password. &c{attempts} &7attempts remaining."
+alreadyLoggedIn = "&c✕ &7You are already logged in."
+notRegistered = "&c✕ &7You are not registered. Use &e/register <password> <password>"
+alreadyRegistered = "&c✕ &7You are already registered. Use &e/login <password>"
+kicked = "&c✕ &7You took too long to login. Please reconnect and try again."
+rateLimited = "&c✕ &7Too many failed attempts. Try again in &c{minutes} &7minutes."
+passwordChanged = "&a✔ &7Password changed successfully!"
+passwordMismatch = "&c✕ &7Passwords do not match. Try again."
+wrongOldPassword = "&c✕ &7Old password is incorrect."
+logoutSuccess = "&7☁ &7You have been successfully logged out."
+logoutCooldown = "&c✕ &7Please wait &c{seconds} &7seconds before logging out."
+actionBarReminder = "&e/login <password> &7to authenticate"
+actionBarReminderNew = "&e/register <password> <password> &7to create an account"
+blocked = "&c✕ &7You must authenticate first!"
+loginUsage = "&8» &7Usage: &e/login <password>"
+registerUsage = "&8» &7Usage: &e/register <password> <confirm_password>"
+changePasswordUsage = "&8» &7Usage: &e/changepassword <old> <new> <confirm_new>"
+adminForceLogin = "&a✔ &7Force-logged in &a{player}&7."
+adminForceRegister = "&a✔ &7Force-registered &a{player} &7with a temporary password."
+adminResetPassword = "&a✔ &7Password reset for &a{player}&7. They must re-register."
+adminPurge = "&a✔ &7Account purged for &a{player}&7."
+adminReload = "&a✔ &7Configuration reloaded successfully."
+adminPlayerNotFound = "&c✕ &7Player &c{player} &7not found."
+adminNotRegistered = "&c✕ &7Player &c{player} &7is not registered."
+minPasswordLength = "&c✕ &7Password must be at least &c{min} &7characters."
+
+[server]
+# Server display name for placeholders
+name = "KumulalaCraft 2"
+# Discord invite link (for {discord} placeholder)
+discord = "discord.gg/twój-kod"
