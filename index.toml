@@ -567,6 +567,11 @@ hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
+file = "mods/easylogin.pw.toml"
+hash = "121eaee9846985e5d806a70127fea51310eb9bce8f24622062bd7170ad1cc7e2"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "58a52192b85fb49a4b772cd54677f84515a2dfc26a14d54eb880ed01f1186c5a"
 metafile = true
@@ -699,11 +704,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
-metafile = true
-
-[[files]]
-file = "mods/nedologin.pw.toml"
-hash = "af7243e096a68e5cb5550727d5ba91c8cb193cbe23cd8079ad4af8f38331c152"
 metafile = true
 
 [[files]]
