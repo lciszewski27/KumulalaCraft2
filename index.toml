@@ -426,6 +426,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts-redux.pw.toml"
 hash = "ae56960397cf0e01f21b448093590643ad70bb390da44732ca46dc5261f4d536"
 metafile = true
@@ -566,8 +571,13 @@ hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e738234d8021cad1ac7f1a488f9a62263c7a57c0c339bfe91015c27d8e8c5576"
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
@@ -608,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -671,8 +686,18 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "724206c2b7dbf3501b9ec3ea38036eb616118c1c0ec562d68526eb529f8dfb41"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "bb4efe79f675a82254d2f01237b9b5d074e2f794c5911a44436f60397f5a2009"
 metafile = true
 
 [[files]]
@@ -806,8 +831,28 @@ hash = "4f949748af7fa233f5a6897192358d57f88a0e28ad59c56b4c4e7ef0a0436d2a"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
+metafile = true
+
+[[files]]
+file = "mods/simplycataclysm.pw.toml"
+hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "5701a4eb9887a6357f944647e1a5e0f09cb895a36b4b299e6450685e026391fc"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
 
 [[files]]
