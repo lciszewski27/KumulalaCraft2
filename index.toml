@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9c2aee9300f965ce9e637a369a9dd9adff5d0ff08ee33c7a12cf88e6131684c0"
+hash = "bce52f752c8d3bae9ed17dba8f96ec7ff3f1ab7032fe2258a9573e1a8657bb85"
 metafile = true
 
 [[files]]
