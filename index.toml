@@ -50,7 +50,7 @@ hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "8c87c37f43523b1878702f1fa40512d54b0896cafd386fd9514b836185a84af2"
+hash = "0aff456d2b50cc645ad7521040be9dc59d8884ad148c9c6d1773a89d47397d79"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -62,7 +62,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "45fec3d9bac2c0b4ba206cfe4e382be9a74e0631a2d08fc8d34224ecf3a05c10"
+hash = "3dc84f0c074ed6d3e13d3029728c3e3b3d95351ad988e42422aeb9a42d4deb4d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -75,6 +75,10 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -115,6 +119,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/tab/users.yml"
 hash = "d1d155f990897a6120539a96397824b81ca4ee7068addd7508cbceacc7993eed"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "9f39c2ae50f24a7c8fb33f28ad46b13ce2f5d5dabaa4b57ad4c43489710fdb9e"
 
 [[files]]
 file = "emotes/Basket Head.emotecraft"
