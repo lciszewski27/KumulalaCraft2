@@ -50,7 +50,7 @@ hash = "4be6ee8c0ce0d70a4aeba8f2f651aa4a0bfab225cf55061054f07d1134fcd911"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "0aff456d2b50cc645ad7521040be9dc59d8884ad148c9c6d1773a89d47397d79"
+hash = "869e2e4b763b7bc9e0e3fb1b0ad94a193fe2c0ac7fe02ae26da7ad2365b0d3dd"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -79,6 +79,10 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
