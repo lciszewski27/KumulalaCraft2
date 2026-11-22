@@ -1,13 +1,14 @@
 name = "EasyLogin"
-filename = "easylogin-neoforge-1.21.1-1.0.1.jar"
+filename = "easylogin-neoforge-1.21.1-1.0.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/VYmP7iH5/versions/tpr8fHX7/easylogin-neoforge-1.21.1-1.0.1.jar"
+url = "https://github.com/BigBangcraft-server/easyLogin/releases/download/v1.0.2/easylogin-neoforge-1.21.1-1.0.2.jar"
 hash-format = "sha512"
-hash = "c6532ece3b27bdf16f490c8122adc65d03c79dede7a26b41804cca568ba40e0778b1f554edd37def2d3acdc5ec2f20ff26a7df646b42390989dd41bd4d9a0877"
+hash = "e8c6b377c49838a1ce14fded31c6262893559579f3b83ac3b62a21d2c29a99a2803d0c7c637c619d748edd11456f4024babcc4ae24c130851eaeba824ea11af5"
 
 [update]
-[update.modrinth]
-mod-id = "VYmP7iH5"
-version = "tpr8fHX7"
+[update.github]
+slug = "BigBangcraft-server/easyLogin"
+tag = "v1.0.2"
+regex = "easylogin-neoforge-1\\.21\\.1-[0-9.]+\\.jar"
