@@ -1,13 +1,13 @@
 name = "Kotlin for Forge"
-filename = "kotlinforforge-5.11.0-all.jar"
+filename = "kotlinforforge-5.13.0-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar"
+url = "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar"
 hash-format = "sha512"
-hash = "b32faa6d616511aff4f8b32197877c53b9f8bee103884ec37c632b5d017bb59a498ec971b68d8d94787043b0c5be666a330b61d285033c341bff83ac28a90992"
+hash = "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459"
 
 [update]
 [update.modrinth]
 mod-id = "ordsPcFz"
-version = "NrSebcsG"
+version = "9ZlVvei8"
