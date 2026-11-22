@@ -738,6 +738,11 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "f1fecbcbee6806a14efb3bd38ccf10166b48004967fbe72b6c31224e5e9fc5ea"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
@@ -970,11 +975,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "39c8018bf31fe764a68adddde89e556f5226ef116345a6f69ff3b79218ea7e6c"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
